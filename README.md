@@ -19,3 +19,4 @@ Node.js-  HTML - CSS - Template (EJS)- JavaScript
 ***Dependencies*** 
 
 ejs - express - nodemon - lodash
+![DAILY](https://user-images.githubusercontent.com/66380080/123960518-a8d57e00-d9af-11eb-9dd9-ae4487be64fa.png)
